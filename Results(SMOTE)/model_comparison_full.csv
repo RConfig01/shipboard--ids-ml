@@ -1,9 +1,0 @@
-Model,Task,Dataset,Accuracy,Precision,Recall,F1-score
-RF,Binary,Original,0.883,0.884,0.883,0.881
-RF,Binary,SMOTE,0.874,0.873,0.874,0.873
-SVM,Binary,Original,0.757,0.826,0.757,0.721
-SVM,Binary,SMOTE,0.838,0.872,0.838,0.826
-RF,Multiclass,Original,0.856,0.851,0.856,0.841
-RF,Multiclass,SMOTE,0.856,0.857,0.856,0.853
-SVM,Multiclass,Original,0.766,0.67,0.766,0.695
-SVM,Multiclass,SMOTE,0.658,0.783,0.658,0.685
